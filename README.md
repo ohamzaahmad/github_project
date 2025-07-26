@@ -1,5 +1,4 @@
-# Project Title
-
+# Comprehensive Git and GitHub Workflow Project: Repository Management, Collaboration, and Open Source
 This repository contains the solution for the final assignment as per the IBM Frontend course requirements.
 
 ## Files Included
